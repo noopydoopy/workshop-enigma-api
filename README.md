@@ -30,3 +30,6 @@ The repo is use for the boilerplate of asp.net core web api of enigma project
 Add-Migration InitialCreate
 Update-Database
 ```
+
+### API and model reference
+[Api and model reference](https://app.swaggerhub.com/apis/xenirio/Enigma/1.0.1 "Api and model reference")
