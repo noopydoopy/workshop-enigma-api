@@ -1,0 +1,8 @@
+﻿.vs
+bin
+obj
+*.user
+*.db
+.vscode/tasks.json
+.vscode/launch.json
+*.pubxml
