@@ -18,6 +18,8 @@
   <ItemGroup>
     <Folder Include="Repositories\" />
     <Folder Include="JsonModels\" />
+    <Folder Include="Repositories\Entities\" />
+    <Folder Include="Repositories\Interfaces\" />
   </ItemGroup>
   <ItemGroup>
     <Content Update="appsettings.json">
